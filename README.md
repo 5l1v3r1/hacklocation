@@ -13,7 +13,7 @@ Hack location by send link - هک لوکیشن با ارسال لینک - هک �
 </b></br>
 ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید
 <br><pre>
-git clone https://github.com/HACKGM/hacklocation
+git clone https://github.com/tHACKGM/hacklocation
 </pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
